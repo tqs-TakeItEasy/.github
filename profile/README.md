@@ -1,7 +1,5 @@
 # TakeItEasy
 
-</br >
-
 ## Team
 
 | NMec   | Email                 | Name                                                   | Role                                   |
