@@ -14,11 +14,11 @@
 ## Project Modules
 | Module                 | Link | Tech   |
 |------------------------|------|--------|
-| TakeItEasy Backend     |      | Spring |
-| TakeItEasy Admin UI    |      | React  |
-| TakeItEasy Partners UI |      | React  |
-| StorePlay Backend      |      | Spring |
-| StorePlay Frontend     |      | React  |
+| TakeItEasy Backend     | https://github.com/tqs-TakeItEasy/TakeItEasy-backend | Spring |
+| TakeItEasy Admin UI    | https://github.com/tqs-TakeItEasy/TakeItEasy-frontend-admin | React  |
+| TakeItEasy Partners UI | https://github.com/tqs-TakeItEasy/TakeItEasy-frontend-acp | React  |
+| StorePlay Backend      | https://github.com/tqs-TakeItEasy/StorePlay-backend | Spring |
+| StorePlay Frontend     | https://github.com/tqs-TakeItEasy/StorePlay-frontend | React  |
 
 
 ## Project Bookmarks
