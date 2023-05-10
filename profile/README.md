@@ -11,6 +11,16 @@
 
 </br >
 
+## Project Modules
+| Module                 | Link | Tech   |
+|------------------------|------|--------|
+| TakeItEasy Backend     |      | Spring |
+| TakeItEasy Admin UI    |      | React  |
+| TakeItEasy Partners UI |      | React  |
+| StorePlay Backend      |      | Spring |
+| StorePlay Frontend     |      | React  |
+
+
 ## Project Bookmarks
 [GitHub Org](https://github.com/tqs-TakeItEasy)  
 [Jira Software](https://mankings.atlassian.net/jira/software/projects/TIE/boards/3/roadmap?shared=&atlOrigin=eyJpIjoiMTU4ZjY0ZjI5ODU2NDdlN2JiMTJlOGQ3ZWQ2ZmU2OWYiLCJwIjoiaiJ9)
