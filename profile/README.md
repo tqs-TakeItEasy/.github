@@ -15,8 +15,8 @@
 | Module                 | Link | Tech   | Deployed At |
 |------------------------|------|--------|-------------|
 | TakeItEasy Backend     | https://github.com/tqs-TakeItEasy/TakeItEasy-backend | Spring | deti-tqs-11.ua.pt:8080 |
-| TakeItEasy Admin UI    | https://github.com/tqs-TakeItEasy/TakeItEasy-frontend-admin | React | deti-tqs-11.ua.pt:3000 |
-| TakeItEasy Partners UI | https://github.com/tqs-TakeItEasy/TakeItEasy-frontend-acp | React  | deti-tqs-11.ua.pt:3001 |
+| TakeItEasy Partners UI | https://github.com/tqs-TakeItEasy/TakeItEasy-frontend-acp | React  | deti-tqs-11.ua.pt:3000 |
+| TakeItEasy Admin UI    | https://github.com/tqs-TakeItEasy/TakeItEasy-frontend-admin | React | deti-tqs-11.ua.pt:3001 |
 | StorePlay Backend      | https://github.com/tqs-TakeItEasy/StorePlay-backend | Spring | deti-tqs-11.ua.pt:8081 |
 | StorePlay Frontend     | https://github.com/tqs-TakeItEasy/StorePlay-frontend | React  | deti-tqs-11.ua.pt:3002 |
 
